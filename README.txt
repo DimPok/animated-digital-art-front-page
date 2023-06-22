@@ -1,0 +1,1 @@
+Home page for a website (or blog) dedicated to "digital painting". It was animated using CSS and JavaScript, basic optimization for search engines was performed. If there is a desire to use, need to replace the titles and illustrations
